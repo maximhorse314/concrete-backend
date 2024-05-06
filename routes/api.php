@@ -11,6 +11,7 @@
 |
 */
 
+
 Route::group(['middleware' => ['guest:api']], function() {
     Route::post('login', 'Auth\LoginController@login');
     Route::post('login/refresh', 'Auth\LoginController@refresh');
