@@ -1,4 +1,3 @@
-
 # Laravel + Vuetify
 Starter API built with Laravel 6.0, JWT Auth, Vue 2, Vue Router 3, Vuex 3, Axios, Vuetify 2
 
